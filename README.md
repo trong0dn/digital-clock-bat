@@ -17,3 +17,7 @@ echo.
 ping -n 2.0.0.0 > nul
 goto main
 ```
+
+## Display
+
+![digital_clock](https://user-images.githubusercontent.com/55768917/154993741-8a95a26f-d400-4883-ad8b-82f364e3304d.png)
